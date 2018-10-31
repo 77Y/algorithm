@@ -1,4 +1,4 @@
-package com.democome.smart;
+package com.algorithm;
 
 public class SingleNumber {
 	// 136 Single Number
